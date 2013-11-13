@@ -1,0 +1,25 @@
+{
+  "name": "jr-highlight",
+  "main": "jr-highlight.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jobrapido/jr-highlight",
+  "dependencies": {
+    "jquery": "~1.9.1"
+  },
+  "authors": [
+    "Jobrapido"
+  ],
+  "description": "Text highlight plugin for jQuery",
+  "keywords": [
+    "jQuery",
+    "highlight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

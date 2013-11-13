@@ -1,10 +1,8 @@
 jr-highlight
 ============
 
-Text higlighting plugin for jQuery.
+Text highlighting plugin for jQuery based on the work made by [Chintan Tank](https://github.com/tankchintan) and [Johann Burkard](http://johannburkard.de/).
 
-This plugin is based on the work made by [Chintan Tank](https://github.com/tankchintan) and [Johann Burkard](http://johannburkard.de/).
-
-##Installation with Bower
+##Installation via Bower
 
 `bower install jr-highlight`
